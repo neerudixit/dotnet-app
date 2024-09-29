@@ -1,7 +1,0 @@
-C:\Users\Naresh Dixit\Desktop\Azuredevops\demoapp\demoapp.web\bin\release\net8.0\publish\demoapp.web.exe
-C:\Users\Naresh Dixit\Desktop\Azuredevops\demoapp\demoapp.web\bin\release\net8.0\publish\appsettings.Development.json
-C:\Users\Naresh Dixit\Desktop\Azuredevops\demoapp\demoapp.web\bin\release\net8.0\publish\appsettings.json
-C:\Users\Naresh Dixit\Desktop\Azuredevops\demoapp\demoapp.web\bin\release\net8.0\publish\demoapp.web.dll
-C:\Users\Naresh Dixit\Desktop\Azuredevops\demoapp\demoapp.web\bin\release\net8.0\publish\demoapp.web.deps.json
-C:\Users\Naresh Dixit\Desktop\Azuredevops\demoapp\demoapp.web\bin\release\net8.0\publish\demoapp.web.runtimeconfig.json
-C:\Users\Naresh Dixit\Desktop\Azuredevops\demoapp\demoapp.web\bin\release\net8.0\publish\demoapp.web.pdb
